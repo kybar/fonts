@@ -1,0 +1,15 @@
+@font-face{font-family:AcuminPro;
+src:url(https://cdn.rawgit.com/kybar/fonts/master/AcuminPro.eot);
+src:url(https://cdn.rawgit.com/kybar/fonts/master/AcuminPro.eot?#iefix) format('embedded-opentype'),
+url(http://cdn-a.production.liputan6.static6.com/assets/fonts/liputan6/AcuminPro/AcuminPro.svg#AcuminPro) format('svg'),
+url(https://cdn.rawgit.com/kybar/fonts/master/AcuminPro.woff) format('woff'),
+url(https://cdn.rawgit.com/kybar/fonts/master/AcuminPro.ttf) format('truetype');
+font-weight:400;font-style:normal}
+@font-face{font-family:AcuminPro;
+src:url(https://cdn.rawgit.com/kybar/fonts/master/AcuminPro-Bold.eot);
+src:url(https://cdn.rawgit.com/kybar/fonts/master/AcuminPro-Bold.eot?#iefix) 
+format('embedded-opentype'),
+url(http://cdn-a.production.liputan6.static6.com/assets/fonts/liputan6/AcuminPro-Bold/AcuminPro-Bold.svg#AcuminPro-Bold) format('svg'),
+url(https://cdn.rawgit.com/kybar/fonts/master/AcuminPro-Bold.woff) format('woff'),
+url(https://cdn.rawgit.com/kybar/fonts/master/AcuminPro-Bold.ttf) format('truetype');
+font-weight:700;font-style:normal}
